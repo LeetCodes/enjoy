@@ -1,0 +1,1062 @@
+// !$*UTF8*$!
+{
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Release;
+		activeExecutable = D594BE730FAE61D6007A85F2 /* Enjoy */;
+		activeTarget = 8D1107260486CEB800E47090 /* Enjoy */;
+		addToTargets = (
+			8D1107260486CEB800E47090 /* Enjoy */,
+		);
+		breakpoints = (
+			D5F0808F14CAFE89008C1AD3 /* JoystickController.m:44 */,
+		);
+		codeSenseManager = D594BE820FAE61DC007A85F2 /* Code sense */;
+		executables = (
+			D594BE730FAE61D6007A85F2 /* Enjoy */,
+		);
+		perUserDictionary = {
+			"PBXConfiguration.PBXBreakpointsDataSource.v1:1CA23EDF0692099D00951B8B" = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXBreakpointsDataSource_BreakpointID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					20,
+					281,
+					20,
+					181,
+					181,
+					111,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXBreakpointsDataSource_ActionID,
+					PBXBreakpointsDataSource_TypeID,
+					PBXBreakpointsDataSource_BreakpointID,
+					PBXBreakpointsDataSource_UseID,
+					PBXBreakpointsDataSource_LocationID,
+					PBXBreakpointsDataSource_ConditionID,
+					PBXBreakpointsDataSource_IgnoreCountID,
+					PBXBreakpointsDataSource_ContinueID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXErrorsWarningsDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXErrorsWarningsDataSource_LocationID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					680,
+					328,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXErrorsWarningsDataSource_TypeID,
+					PBXErrorsWarningsDataSource_MessageID,
+					PBXErrorsWarningsDataSource_LocationID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXExecutablesDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXExecutablesDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					22,
+					300,
+					469,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXExecutablesDataSource_ActiveFlagID,
+					PBXExecutablesDataSource_NameID,
+					PBXExecutablesDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = 1;
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					644,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.XCSCMDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					20,
+					794,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_SCM_ColumnID,
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					778,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 348849003;
+			PBXWorkspaceStateSaveDate = 348849003;
+		};
+		perUserProjectItems = {
+			D5008F4514CB036F00DA413A /* PBXTextBookmark */ = D5008F4514CB036F00DA413A /* PBXTextBookmark */;
+			D549CA5B0FBB44E100BC8203 = D549CA5B0FBB44E100BC8203 /* PBXTextBookmark */;
+			D56C26D80FB69B6B004CAE1A = D56C26D80FB69B6B004CAE1A /* PBXTextBookmark */;
+			D57F444E10004EC90098B2B6 = D57F444E10004EC90098B2B6 /* PBXTextBookmark */;
+			D5DDB0890FFF8EB900E2E203 = D5DDB0890FFF8EB900E2E203 /* PlistBookmark */;
+			D5F0806014CAF9A3008C1AD3 = D5F0806014CAF9A3008C1AD3 /* PBXTextBookmark */;
+			D5F0807114CAFCDE008C1AD3 = D5F0807114CAFCDE008C1AD3 /* PBXTextBookmark */;
+			D5F0807214CAFCDE008C1AD3 = D5F0807214CAFCDE008C1AD3 /* PBXTextBookmark */;
+			D5F0807514CAFCDE008C1AD3 = D5F0807514CAFCDE008C1AD3 /* PBXTextBookmark */;
+			D5F0808214CAFE51008C1AD3 = D5F0808214CAFE51008C1AD3 /* PBXTextBookmark */;
+			D5F0808414CAFE51008C1AD3 = D5F0808414CAFE51008C1AD3 /* PBXTextBookmark */;
+			D5F0809014CAFE89008C1AD3 = D5F0809014CAFE89008C1AD3 /* PBXTextBookmark */;
+			D5F080B814CB00F7008C1AD3 = D5F080B814CB00F7008C1AD3 /* PBXTextBookmark */;
+			D5F2C5C10FB0267B00C7A247 = D5F2C5C10FB0267B00C7A247 /* PBXTextBookmark */;
+			D5F2C6D00FB0377F00C7A247 = D5F2C6D00FB0377F00C7A247 /* PBXTextBookmark */;
+			D5F2C71E0FB03C8B00C7A247 = D5F2C71E0FB03C8B00C7A247 /* PBXTextBookmark */;
+			D5F808BE0FB083D50006A4DE = D5F808BE0FB083D50006A4DE /* PBXTextBookmark */;
+			D5F80A2B0FB09E360006A4DE = D5F80A2B0FB09E360006A4DE /* PBXTextBookmark */;
+			D5F80A410FB09F6E0006A4DE = D5F80A410FB09F6E0006A4DE /* PBXTextBookmark */;
+			D5F80A4D0FB0A2090006A4DE = D5F80A4D0FB0A2090006A4DE /* PBXTextBookmark */;
+			D5F80A500FB0A2090006A4DE = D5F80A500FB0A2090006A4DE /* PBXTextBookmark */;
+			D5F80AAE0FB0A36E0006A4DE = D5F80AAE0FB0A36E0006A4DE /* PBXBookmark */;
+			D5F80ABF0FB0A62D0006A4DE = D5F80ABF0FB0A62D0006A4DE /* PBXTextBookmark */;
+			D5F80B0B0FB0AC3E0006A4DE = D5F80B0B0FB0AC3E0006A4DE /* PBXTextBookmark */;
+			D5F80B0C0FB0AC3E0006A4DE = D5F80B0C0FB0AC3E0006A4DE /* PBXTextBookmark */;
+			D5F80B0E0FB0AC3E0006A4DE = D5F80B0E0FB0AC3E0006A4DE /* PBXTextBookmark */;
+			D5F80B0F0FB0AC3E0006A4DE = D5F80B0F0FB0AC3E0006A4DE /* PBXTextBookmark */;
+			D5F80B100FB0AC3E0006A4DE = D5F80B100FB0AC3E0006A4DE /* PBXTextBookmark */;
+			D5F80B120FB0AC3E0006A4DE = D5F80B120FB0AC3E0006A4DE /* PBXTextBookmark */;
+			D5F80B140FB0AC3E0006A4DE = D5F80B140FB0AC3E0006A4DE /* PBXTextBookmark */;
+			D5F80B150FB0AC3E0006A4DE = D5F80B150FB0AC3E0006A4DE /* PBXTextBookmark */;
+			D5F80B160FB0AC3E0006A4DE = D5F80B160FB0AC3E0006A4DE /* PBXTextBookmark */;
+			D5F80B690FB0B1610006A4DE = D5F80B690FB0B1610006A4DE /* PBXTextBookmark */;
+			D5F80BAD0FB0B9320006A4DE = D5F80BAD0FB0B9320006A4DE /* PBXTextBookmark */;
+			D5F80C2E0FB0CBB30006A4DE = D5F80C2E0FB0CBB30006A4DE /* PBXTextBookmark */;
+			D5F80D390FB3E75E0006A4DE = D5F80D390FB3E75E0006A4DE /* PBXTextBookmark */;
+			D5F80D480FB3E8AB0006A4DE = D5F80D480FB3E8AB0006A4DE /* PBXTextBookmark */;
+			D5F80D690FB3EB220006A4DE = D5F80D690FB3EB220006A4DE /* PBXTextBookmark */;
+		};
+		sourceControlManager = D594BE810FAE61DC007A85F2 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {759, 546}}";
+			sepNavSelRange = "{190, 0}";
+			sepNavVisRange = "{0, 251}";
+		};
+	};
+	32CA4F630368D1EE00C91783 /* Enjoy_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {996, 554}}";
+			sepNavSelRange = "{502, 0}";
+			sepNavVisRange = "{0, 558}";
+		};
+	};
+	8D1107260486CEB800E47090 /* Enjoy */ = {
+		activeExec = 0;
+		executables = (
+			D594BE730FAE61D6007A85F2 /* Enjoy */,
+		);
+	};
+	8D1107310486CEB800E47090 /* Info.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{370, -20}, {1031, 1012}}";
+		};
+	};
+	D5008F4514CB036F00DA413A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D594BEF80FAE6FF2007A85F2 /* JoystickController.m */;
+		name = "JoystickController.m: 46";
+		rLen = 0;
+		rLoc = 1250;
+		rType = 0;
+		vrLen = 1310;
+		vrLoc = 881;
+	};
+	D549CA4B0FBB441B00BC8203 /* Credits.rtf */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1165, 585}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRect = "{{0, 0}, {1165, 585}}";
+			sepNavWindowFrame = "{{76, 0}, {1204, 698}}";
+		};
+	};
+	D549CA5B0FBB44E100BC8203 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D5F2C5820FB021F100C7A247 /* TargetController.m */;
+		name = "TargetController.m: 35";
+		rLen = 0;
+		rLoc = 697;
+		rType = 0;
+		vrLen = 782;
+		vrLoc = 334;
+	};
+	D5617A340FAEB74000928B3A /* ConfigsController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {996, 442}}";
+			sepNavSelRange = "{421, 0}";
+			sepNavVisRange = "{0, 473}";
+		};
+	};
+	D5617A350FAEB74000928B3A /* ConfigsController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {996, 3090}}";
+			sepNavSelRange = "{1263, 0}";
+			sepNavVisRange = "{0, 824}";
+		};
+	};
+	D5617A370FAEBA1800928B3A /* Config.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1062, 482}}";
+			sepNavSelRange = "{383, 94}";
+			sepNavVisRange = "{0, 484}";
+			sepNavWindowFrame = "{{91, 11}, {1031, 1012}}";
+		};
+	};
+	D5617A380FAEBA1800928B3A /* Config.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1062, 482}}";
+			sepNavSelRange = "{279, 0}";
+			sepNavVisRange = "{0, 496}";
+		};
+	};
+	D5617D180FAF568100928B3A /* JSActionButton.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {996, 441}}";
+			sepNavSelRange = "{313, 0}";
+			sepNavVisRange = "{0, 319}";
+		};
+	};
+	D5617D190FAF568100928B3A /* JSActionButton.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {996, 535}}";
+			sepNavSelRange = "{554, 49}";
+			sepNavVisRange = "{136, 475}";
+			sepNavWindowFrame = "{{85, 11}, {1031, 1012}}";
+		};
+	};
+	D5617D240FAF579300928B3A /* JSActionHat.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {997, 625}}";
+			sepNavSelRange = "{177, 0}";
+			sepNavVisRange = "{0, 225}";
+		};
+	};
+	D5617D250FAF579300928B3A /* JSActionHat.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {996, 1530}}";
+			sepNavSelRange = "{2431, 45}";
+			sepNavVisRange = "{2188, 805}";
+		};
+	};
+	D5617D290FAF579A00928B3A /* JSActionAnalog.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {996, 442}}";
+			sepNavSelRange = "{180, 0}";
+			sepNavVisRange = "{0, 324}";
+		};
+	};
+	D5617D2A0FAF579A00928B3A /* JSActionAnalog.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {996, 720}}";
+			sepNavSelRange = "{1081, 0}";
+			sepNavVisRange = "{440, 685}";
+		};
+	};
+	D5617DF00FAF636C00928B3A /* SubAction.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {996, 441}}";
+			sepNavSelRange = "{270, 0}";
+			sepNavVisRange = "{0, 521}";
+			sepNavWindowFrame = "{{85, 11}, {1031, 1012}}";
+		};
+	};
+	D5617DF10FAF636C00928B3A /* SubAction.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {997, 505}}";
+			sepNavSelRange = "{134, 0}";
+			sepNavVisRange = "{0, 630}";
+			sepNavWindowFrame = "{{83, 11}, {1031, 1012}}";
+		};
+	};
+	D5617FD40FAFD06000928B3A /* Target.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {996, 441}}";
+			sepNavSelRange = "{226, 0}";
+			sepNavVisRange = "{0, 378}";
+		};
+	};
+	D5617FD50FAFD06000928B3A /* Target.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {997, 482}}";
+			sepNavSelRange = "{131, 0}";
+			sepNavVisRange = "{0, 478}";
+		};
+	};
+	D5617FD70FAFD1E600928B3A /* TargetKeyboard.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {996, 441}}";
+			sepNavSelRange = "{178, 0}";
+			sepNavVisRange = "{0, 395}";
+		};
+	};
+	D5617FD80FAFD1E600928B3A /* TargetKeyboard.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {996, 570}}";
+			sepNavSelRange = "{676, 0}";
+			sepNavVisRange = "{37, 816}";
+		};
+	};
+	D5617FE20FAFD7B000928B3A /* TargetController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1269, 495}}";
+			sepNavSelRange = "{502, 0}";
+			sepNavVisRange = "{39, 620}";
+		};
+	};
+	D5617FE30FAFD7B000928B3A /* TargetController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {996, 1965}}";
+			sepNavSelRange = "{697, 0}";
+			sepNavVisRange = "{301, 874}";
+		};
+	};
+	D5617FE50FAFDB5800928B3A /* KeyInputTextView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {924, 502}}";
+			sepNavSelRange = "{368, 0}";
+			sepNavVisRange = "{0, 487}";
+			sepNavWindowFrame = "{{85, 11}, {1031, 1012}}";
+		};
+	};
+	D5617FE60FAFDB5800928B3A /* KeyInputTextView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {997, 2961}}";
+			sepNavSelRange = "{194, 0}";
+			sepNavVisRange = "{3682, 686}";
+			sepNavWindowFrame = "{{85, 11}, {1031, 1012}}";
+		};
+	};
+	D56C26D80FB69B6B004CAE1A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D5F80D2E0FB3E7370006A4DE /* ConfigsController.m */;
+		name = "ConfigsController.m: 54";
+		rLen = 0;
+		rLoc = 1263;
+		rType = 0;
+		vrLen = 824;
+		vrLoc = 0;
+	};
+	D57F444E10004EC90098B2B6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32CA4F630368D1EE00C91783 /* Enjoy_Prefix.pch */;
+		name = "Enjoy_Prefix.pch: 23";
+		rLen = 0;
+		rLoc = 502;
+		rType = 0;
+		vrLen = 558;
+		vrLoc = 0;
+	};
+	D594BE730FAE61D6007A85F2 /* Enjoy */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Enjoy;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+			$cs = 1;
+			$ds = 1;
+			$eax = 1;
+			$ebp = 1;
+			$ebx = 1;
+			$ecx = 1;
+			$edi = 1;
+			$edx = 1;
+			$eflags = 1;
+			$eip = 1;
+			$es = 1;
+			$esi = 1;
+			$esp = 1;
+			$gs = 1;
+			$mm0 = 1;
+			$mm1 = 1;
+			$mm2 = 1;
+			$mm3 = 1;
+			$mm4 = 1;
+			$mm5 = 1;
+			$mm6 = 1;
+			$mm7 = 1;
+			$mxcsr = 1;
+			$ss = 1;
+			$xmm0 = 1;
+			$xmm1 = 1;
+			$xmm2 = 1;
+			$xmm3 = 1;
+			$xmm4 = 1;
+			$xmm5 = 1;
+			$xmm6 = 1;
+			$xmm7 = 1;
+		};
+	};
+	D594BE810FAE61DC007A85F2 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	D594BE820FAE61DC007A85F2 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	D594BE840FAE6219007A85F2 /* Joystick.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {996, 555}}";
+			sepNavSelRange = "{825, 0}";
+			sepNavVisRange = "{69, 758}";
+			sepNavWindowFrame = "{{983, 16}, {1031, 1012}}";
+		};
+	};
+	D594BE850FAE6219007A85F2 /* Joystick.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {996, 1620}}";
+			sepNavSelRange = "{1521, 0}";
+			sepNavVisRange = "{1120, 870}";
+			sepNavWindowFrame = "{{85, 11}, {1031, 1012}}";
+		};
+	};
+	D594BE880FAE64AD007A85F2 /* JSAction.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {996, 510}}";
+			sepNavSelRange = "{556, 44}";
+			sepNavVisRange = "{31, 675}";
+			sepNavWindowFrame = "{{91, 11}, {1031, 1012}}";
+		};
+	};
+	D594BE890FAE64AD007A85F2 /* JSAction.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {997, 482}}";
+			sepNavSelRange = "{133, 0}";
+			sepNavVisRange = "{0, 398}";
+			sepNavWindowFrame = "{{91, 11}, {1031, 1012}}";
+		};
+	};
+	D594BEF70FAE6FF2007A85F2 /* JoystickController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {996, 554}}";
+			sepNavSelRange = "{241, 0}";
+			sepNavVisRange = "{0, 722}";
+			sepNavWindowFrame = "{{91, 11}, {1031, 1012}}";
+		};
+	};
+	D594BEF80FAE6FF2007A85F2 /* JoystickController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {859, 2730}}";
+			sepNavSelRange = "{1250, 0}";
+			sepNavVisRange = "{881, 1310}";
+			sepNavWindowFrame = "{{83, 11}, {1031, 1012}}";
+		};
+	};
+	D594BF810FAE9661007A85F2 /* ApplicationController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {996, 554}}";
+			sepNavSelRange = "{421, 0}";
+			sepNavVisRange = "{0, 906}";
+		};
+	};
+	D594BF820FAE9661007A85F2 /* ApplicationController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {996, 1035}}";
+			sepNavSelRange = "{1896, 0}";
+			sepNavVisRange = "{736, 1166}";
+		};
+	};
+	D5DDB0890FFF8EB900E2E203 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = /Users/tunah/Code/Enjoy/Info.plist;
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	D5F0806014CAF9A3008C1AD3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D5F80A4C0FB0A2010006A4DE /* ApplicationController.h */;
+		name = "ApplicationController.h: 17";
+		rLen = 0;
+		rLoc = 421;
+		rType = 0;
+		vrLen = 824;
+		vrLoc = 82;
+	};
+	D5F0807114CAFCDE008C1AD3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D5F80BF90FB0C7840006A4DE /* Target.m */;
+		name = "Target.m: 11";
+		rLen = 63;
+		rLoc = 172;
+		rType = 0;
+		vrLen = 715;
+		vrLoc = 0;
+	};
+	D5F0807214CAFCDE008C1AD3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D5F80A280FB09E2C0006A4DE /* KeyInputTextView.m */;
+		name = "KeyInputTextView.m: 197";
+		rLen = 0;
+		rLoc = 4719;
+		rType = 0;
+		vrLen = 807;
+		vrLoc = 1847;
+	};
+	D5F0807414CAFCDE008C1AD3 /* JoystickController.m */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = JoystickController.m;
+		path = /Volumes/VHS/Downloads/JoystickController.m;
+		sourceTree = "<absolute>";
+	};
+	D5F0807514CAFCDE008C1AD3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D5F0807614CAFCDE008C1AD3 /* IOHIDDevice.h */;
+		name = "IOHIDDevice.h: 254";
+		rLen = 0;
+		rLoc = 11646;
+		rType = 0;
+		vrLen = 1589;
+		vrLoc = 10953;
+	};
+	D5F0807614CAFCDE008C1AD3 /* IOHIDDevice.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = IOHIDDevice.h;
+		path = /Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/IOKit.framework/Versions/A/Headers/hid/IOHIDDevice.h;
+		sourceTree = "<absolute>";
+	};
+	D5F0808214CAFE51008C1AD3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D5F0808314CAFE51008C1AD3 /* IOHIDQueue.h */;
+		name = "IOHIDQueue.h: 65";
+		rLen = 12;
+		rLoc = 3260;
+		rType = 0;
+		vrLen = 897;
+		vrLoc = 4355;
+	};
+	D5F0808314CAFE51008C1AD3 /* IOHIDQueue.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = IOHIDQueue.h;
+		path = /Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/IOKit.framework/Versions/A/Headers/hid/IOHIDQueue.h;
+		sourceTree = "<absolute>";
+	};
+	D5F0808414CAFE51008C1AD3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D5F0807414CAFCDE008C1AD3 /* JoystickController.m */;
+		name = "JoystickController.m: 46";
+		rLen = 13;
+		rLoc = 1347;
+		rType = 0;
+		vrLen = 1270;
+		vrLoc = 1000;
+	};
+	D5F0808F14CAFE89008C1AD3 /* JoystickController.m:44 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = D594BEF80FAE6FF2007A85F2 /* JoystickController.m */;
+		functionName = "input_callback()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 44;
+		location = Enjoy;
+		modificationTime = 348848078.635732;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	D5F0809014CAFE89008C1AD3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D594BEF80FAE6FF2007A85F2 /* JoystickController.m */;
+		rLen = 0;
+		rLoc = 43;
+		rType = 1;
+	};
+	D5F080B814CB00F7008C1AD3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D594BEF80FAE6FF2007A85F2 /* JoystickController.m */;
+		name = "JoystickController.m: 46";
+		rLen = 0;
+		rLoc = 1250;
+		rType = 0;
+		vrLen = 1069;
+		vrLoc = 922;
+	};
+	D5F2C5820FB021F100C7A247 /* TargetController.m */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = TargetController.m;
+		path = /Users/tunah/Code/Enjoy/TargetController.m;
+		sourceTree = "<absolute>";
+	};
+	D5F2C5AB0FB024C900C7A247 /* Config.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = Config.h;
+		path = /Users/tunah/Code/Enjoy/Config.h;
+		sourceTree = "<absolute>";
+	};
+	D5F2C5B10FB0256600C7A247 /* Config.m */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = Config.m;
+		path = /Users/tunah/Code/Enjoy/Config.m;
+		sourceTree = "<absolute>";
+	};
+	D5F2C5C10FB0267B00C7A247 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D5F2C5AB0FB024C900C7A247 /* Config.h */;
+		name = "Config.h: 10";
+		rLen = 0;
+		rLoc = 170;
+		rType = 0;
+		vrLen = 498;
+		vrLoc = 0;
+	};
+	D5F2C6210FB0271C00C7A247 /* KeyInputTextView.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = KeyInputTextView.h;
+		path = /Users/tunah/Code/Enjoy/KeyInputTextView.h;
+		sourceTree = "<absolute>";
+	};
+	D5F2C6470FB027C600C7A247 /* SubAction.m */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = SubAction.m;
+		path = /Users/tunah/Code/Enjoy/SubAction.m;
+		sourceTree = "<absolute>";
+	};
+	D5F2C6D00FB0377F00C7A247 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D5F2C5B10FB0256600C7A247 /* Config.m */;
+		name = "Config.m: 8";
+		rLen = 0;
+		rLoc = 131;
+		rType = 0;
+		vrLen = 506;
+		vrLoc = 0;
+	};
+	D5F2C71E0FB03C8B00C7A247 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D5617D240FAF579300928B3A /* JSActionHat.h */;
+		name = "JSActionHat.h: 10";
+		rLen = 0;
+		rLoc = 177;
+		rType = 0;
+		vrLen = 225;
+		vrLoc = 0;
+	};
+	D5F8088B0FB083160006A4DE /* JSAction.m */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = JSAction.m;
+		path = /Users/tunah/Code/Enjoy/JSAction.m;
+		sourceTree = "<absolute>";
+	};
+	D5F808BE0FB083D50006A4DE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D5617D290FAF579A00928B3A /* JSActionAnalog.h */;
+		name = "JSActionAnalog.h: 10";
+		rLen = 0;
+		rLoc = 180;
+		rType = 0;
+		vrLen = 324;
+		vrLoc = 0;
+	};
+	D5F808F30FB08C800006A4DE /* TargetController.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = TargetController.h;
+		path = /Users/tunah/Code/Enjoy/TargetController.h;
+		sourceTree = "<absolute>";
+	};
+	D5F8096F0FB093400006A4DE /* TargetConfig.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {996, 441}}";
+			sepNavSelRange = "{379, 0}";
+			sepNavVisRange = "{0, 386}";
+		};
+	};
+	D5F809700FB093400006A4DE /* TargetConfig.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {996, 570}}";
+			sepNavSelRange = "{889, 14}";
+			sepNavVisRange = "{134, 782}";
+		};
+	};
+	D5F80A280FB09E2C0006A4DE /* KeyInputTextView.m */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = KeyInputTextView.m;
+		path = /Users/tunah/Code/Enjoy/KeyInputTextView.m;
+		sourceTree = "<absolute>";
+	};
+	D5F80A2B0FB09E360006A4DE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D5F2C6210FB0271C00C7A247 /* KeyInputTextView.h */;
+		name = "KeyInputTextView.h: 22";
+		rLen = 0;
+		rLoc = 420;
+		rType = 0;
+		vrLen = 524;
+		vrLoc = 0;
+	};
+	D5F80A410FB09F6E0006A4DE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D5617FD70FAFD1E600928B3A /* TargetKeyboard.h */;
+		name = "TargetKeyboard.h: 10";
+		rLen = 0;
+		rLoc = 178;
+		rType = 0;
+		vrLen = 395;
+		vrLoc = 0;
+	};
+	D5F80A4C0FB0A2010006A4DE /* ApplicationController.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = ApplicationController.h;
+		path = /Users/tunah/Code/Enjoy/ApplicationController.h;
+		sourceTree = "<absolute>";
+	};
+	D5F80A4D0FB0A2090006A4DE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D5617FD80FAFD1E600928B3A /* TargetKeyboard.m */;
+		name = "TargetKeyboard.m: 27";
+		rLen = 0;
+		rLoc = 676;
+		rType = 0;
+		vrLen = 816;
+		vrLoc = 37;
+	};
+	D5F80A500FB0A2090006A4DE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D5F8096F0FB093400006A4DE /* TargetConfig.h */;
+		name = "TargetConfig.h: 18";
+		rLen = 0;
+		rLoc = 379;
+		rType = 0;
+		vrLen = 386;
+		vrLoc = 0;
+	};
+	D5F80A700FB0A20F0006A4DE /* Target.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = Target.h;
+		path = /Users/tunah/Code/Enjoy/Target.h;
+		sourceTree = "<absolute>";
+	};
+	D5F80AAE0FB0A36E0006A4DE /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = D5617A080FAEAF8300928B3A /* icon.icns */;
+	};
+	D5F80ABF0FB0A62D0006A4DE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D5F80A700FB0A20F0006A4DE /* Target.h */;
+		name = "Target.h: 15";
+		rLen = 0;
+		rLoc = 231;
+		rType = 0;
+		vrLen = 383;
+		vrLoc = 0;
+	};
+	D5F80AD30FB0AAE10006A4DE /* Joystick.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = Joystick.h;
+		path = /Users/tunah/Code/Enjoy/Joystick.h;
+		sourceTree = "<absolute>";
+	};
+	D5F80ADA0FB0AAF60006A4DE /* Joystick.m */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = Joystick.m;
+		path = /Users/tunah/Code/Enjoy/Joystick.m;
+		sourceTree = "<absolute>";
+	};
+	D5F80AFD0FB0ABB30006A4DE /* JSActionButton.m */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = JSActionButton.m;
+		path = /Users/tunah/Code/Enjoy/JSActionButton.m;
+		sourceTree = "<absolute>";
+	};
+	D5F80B0B0FB0AC3E0006A4DE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D5F2C6470FB027C600C7A247 /* SubAction.m */;
+		name = "SubAction.m: 11";
+		rLen = 0;
+		rLoc = 199;
+		rType = 0;
+		vrLen = 529;
+		vrLoc = 0;
+	};
+	D5F80B0C0FB0AC3E0006A4DE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D5617DF00FAF636C00928B3A /* SubAction.h */;
+		name = "SubAction.h: 16";
+		rLen = 0;
+		rLoc = 270;
+		rType = 0;
+		vrLen = 521;
+		vrLoc = 0;
+	};
+	D5F80B0E0FB0AC3E0006A4DE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D5617D2A0FAF579A00928B3A /* JSActionAnalog.m */;
+		name = "JSActionAnalog.m: 41";
+		rLen = 0;
+		rLoc = 1081;
+		rType = 0;
+		vrLen = 685;
+		vrLoc = 440;
+	};
+	D5F80B0F0FB0AC3E0006A4DE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D5F80AD30FB0AAE10006A4DE /* Joystick.h */;
+		name = "Joystick.h: 10";
+		rLen = 0;
+		rLoc = 174;
+		rType = 0;
+		vrLen = 645;
+		vrLoc = 0;
+	};
+	D5F80B100FB0AC3E0006A4DE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D5F80ADA0FB0AAF60006A4DE /* Joystick.m */;
+		name = "Joystick.m: 113";
+		rLen = 0;
+		rLoc = 3189;
+		rType = 0;
+		vrLen = 796;
+		vrLoc = 2436;
+	};
+	D5F80B120FB0AC3E0006A4DE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D5F8088B0FB083160006A4DE /* JSAction.m */;
+		name = "JSAction.m: 25";
+		rLen = 0;
+		rLoc = 551;
+		rType = 0;
+		vrLen = 560;
+		vrLoc = 0;
+	};
+	D5F80B140FB0AC3E0006A4DE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D594BE880FAE64AD007A85F2 /* JSAction.h */;
+		name = "JSAction.h: 28";
+		rLen = 44;
+		rLoc = 556;
+		rType = 0;
+		vrLen = 675;
+		vrLoc = 31;
+	};
+	D5F80B150FB0AC3E0006A4DE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D5617D180FAF568100928B3A /* JSActionButton.h */;
+		name = "JSActionButton.h: 19";
+		rLen = 0;
+		rLoc = 313;
+		rType = 0;
+		vrLen = 319;
+		vrLoc = 0;
+	};
+	D5F80B160FB0AC3E0006A4DE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D5F80AFD0FB0ABB30006A4DE /* JSActionButton.m */;
+		name = "JSActionButton.m: 29";
+		rLen = 0;
+		rLoc = 603;
+		rType = 0;
+		vrLen = 546;
+		vrLoc = 75;
+	};
+	D5F80B600FB0AD030006A4DE /* JSActionHat.m */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = JSActionHat.m;
+		path = /Users/tunah/Code/Enjoy/JSActionHat.m;
+		sourceTree = "<absolute>";
+	};
+	D5F80B690FB0B1610006A4DE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D5F80B600FB0AD030006A4DE /* JSActionHat.m */;
+		name = "JSActionHat.m: 90";
+		rLen = 0;
+		rLoc = 2612;
+		rType = 0;
+		vrLen = 607;
+		vrLoc = 0;
+	};
+	D5F80BAD0FB0B9320006A4DE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D594BEF70FAE6FF2007A85F2 /* JoystickController.h */;
+		name = "JoystickController.h: 12";
+		rLen = 0;
+		rLoc = 241;
+		rType = 0;
+		vrLen = 722;
+		vrLoc = 0;
+	};
+	D5F80BF90FB0C7840006A4DE /* Target.m */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = Target.m;
+		path = /Users/tunah/Code/Enjoy/Target.m;
+		sourceTree = "<group>";
+	};
+	D5F80C2E0FB0CBB30006A4DE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D5F808F30FB08C800006A4DE /* TargetController.h */;
+		name = "TargetController.h: 33";
+		rLen = 36;
+		rLoc = 806;
+		rType = 0;
+		vrLen = 897;
+		vrLoc = 0;
+	};
+	D5F80CF30FB3E3E80006A4DE /* ConfigsController.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = ConfigsController.h;
+		path = /Users/tunah/Code/Enjoy/ConfigsController.h;
+		sourceTree = "<absolute>";
+	};
+	D5F80D270FB3E71F0006A4DE /* ApplicationController.m */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = ApplicationController.m;
+		path = /Users/tunah/Code/Enjoy/ApplicationController.m;
+		sourceTree = "<absolute>";
+	};
+	D5F80D2E0FB3E7370006A4DE /* ConfigsController.m */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = ConfigsController.m;
+		path = /Users/tunah/Code/Enjoy/ConfigsController.m;
+		sourceTree = "<absolute>";
+	};
+	D5F80D350FB3E7450006A4DE /* TargetConfig.m */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = TargetConfig.m;
+		path = /Users/tunah/Code/Enjoy/TargetConfig.m;
+		sourceTree = "<absolute>";
+	};
+	D5F80D390FB3E75E0006A4DE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D5F80D270FB3E71F0006A4DE /* ApplicationController.m */;
+		name = "ApplicationController.m: 84";
+		rLen = 0;
+		rLoc = 2845;
+		rType = 0;
+		vrLen = 1187;
+		vrLoc = 1668;
+	};
+	D5F80D480FB3E8AB0006A4DE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D5F80D350FB3E7450006A4DE /* TargetConfig.m */;
+		name = "TargetConfig.m: 25";
+		rLen = 0;
+		rLoc = 639;
+		rType = 0;
+		vrLen = 943;
+		vrLoc = 0;
+	};
+	D5F80D690FB3EB220006A4DE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D5F80CF30FB3E3E80006A4DE /* ConfigsController.h */;
+		name = "ConfigsController.h: 33";
+		rLen = 0;
+		rLoc = 945;
+		rType = 0;
+		vrLen = 1061;
+		vrLoc = 0;
+	};
+}
